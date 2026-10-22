@@ -1,0 +1,402 @@
+[
+  {
+    "file": "Q-01.js",
+    "stdout": "Hello from CodingGita!",
+    "error": null
+  },
+  {
+    "file": "Q-02.js",
+    "stdout": "Hello Asha, welcome to CodingGita!\nHello Ravi, welcome to CodingGita!",
+    "error": null
+  },
+  {
+    "file": "Q-03.js",
+    "stdout": "Hello!",
+    "error": null
+  },
+  {
+    "file": "Q-04.js",
+    "stdout": "80",
+    "error": null
+  },
+  {
+    "file": "Q-05.js",
+    "stdout": "60",
+    "error": null
+  },
+  {
+    "file": "Q-06.js",
+    "stdout": "true\nfalse",
+    "error": null
+  },
+  {
+    "file": "Q-07.js",
+    "stdout": "91.2",
+    "error": null
+  },
+  {
+    "file": "Q-08.js",
+    "stdout": "Hello!\nundefined",
+    "error": null
+  },
+  {
+    "file": "Q-09.js",
+    "stdout": "1000",
+    "error": null
+  },
+  {
+    "file": "Q-10.js",
+    "stdout": "Student Asha has scored 92 marks.\nStudent Ravi has scored 85 marks.",
+    "error": null
+  },
+  {
+    "file": "Q-11.js",
+    "stdout": "20\nReferenceError: age is not defined\nJavaScript",
+    "error": null
+  },
+  {
+    "file": "Q-12.js",
+    "stdout": "Asha scored total 240 with average 80\nRavi scored total 210 with average 70",
+    "error": null
+  },
+  {
+    "file": "Q-13.js",
+    "stdout": "Asha total marks: 240",
+    "error": null
+  },
+  {
+    "file": "Q-14.js",
+    "stdout": "Student: Asha\nTotal: 240\nAverage: 80.00\nResult: Pass\nStudent: Ravi\nTotal: 105\nAverage: 35.00\nResult: Fail",
+    "error": null
+  },
+  {
+    "file": "Q-15.js",
+    "stdout": "60\n60\n25\nAsha Patel",
+    "error": null
+  },
+  {
+    "file": "Q-16.js",
+    "stdout": "A+\nA\nC\nD\nF",
+    "error": null
+  },
+  {
+    "file": "Q-17.js",
+    "stdout": "2125\n1080",
+    "error": null
+  },
+  {
+    "file": "Q-18.js",
+    "stdout": "32\n212\n0\n100",
+    "error": null
+  },
+  {
+    "file": "Q-19.js",
+    "stdout": "540",
+    "error": null
+  },
+  {
+    "file": "Q-20.js",
+    "stdout": "Student: Asha\nTotal: 240\nAverage: 80.00\nResult: Pass\nStudent: Ravi\nTotal: 105\nAverage: 35.00\nResult: Fail\nStudent: Neha\nTotal: 120\nAverage: 40.00\nResult: Pass\nFirst average is higher\nSecond average is higher\nBoth averages are equal",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-01-What-Is-Scope/Q-01.js",
+    "stdout": "Surat\nIndia",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-01-What-Is-Scope/Q-02.js",
+    "stdout": "550\n500",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-01-What-Is-Scope/Q-03.js",
+    "stdout": "",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-01-What-Is-Scope/Q-04.js",
+    "stdout": "",
+    "error": "ReferenceError: number is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-01-What-Is-Scope/Q-05.js",
+    "stdout": "Surat\nIndia\nSurat",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-02-Global-Scope/Q-06.js",
+    "stdout": "I like Cricket\nCricket",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-02-Global-Scope/Q-07.js",
+    "stdout": "English\nGujarati\nGujarati",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-02-Global-Scope/Q-08.js",
+    "stdout": "75",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-02-Global-Scope/Q-09.js",
+    "stdout": "Favorite color: Red\nRed",
+    "error": "ReferenceError: message is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-02-Global-Scope/Q-10.js",
+    "stdout": "Sunrise School\nGreen Valley School\nGreen Valley School",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-03-Function-Scope/Q-11.js",
+    "stdout": "300",
+    "error": "ReferenceError: first is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-03-Function-Scope/Q-12.js",
+    "stdout": "",
+    "error": "ReferenceError: salary is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-03-Function-Scope/Q-13.js",
+    "stdout": "25\n15",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-03-Function-Scope/Q-14.js",
+    "stdout": "50\n50",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-03-Function-Scope/Q-15.js",
+    "stdout": "32",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-04-Var-And-Blocks/Q-16.js",
+    "stdout": "Success",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-04-Var-And-Blocks/Q-17.js",
+    "stdout": "2",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-04-Var-And-Blocks/Q-18.js",
+    "stdout": "End",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-04-Var-And-Blocks/Q-19.js",
+    "stdout": "undefined",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-04-Var-And-Blocks/Q-20.js",
+    "stdout": "",
+    "error": "ReferenceError: secret is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-05-Loop-Scope/Q-21.js",
+    "stdout": "2\n4\n6\nFinal: 8",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-05-Loop-Scope/Q-22.js",
+    "stdout": "1\n2\n3\nCount: 4",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-05-Loop-Scope/Q-23.js",
+    "stdout": "5\n4\n3\nAfter loop: 2",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-05-Loop-Scope/Q-24.js",
+    "stdout": "Item: 1\nItem: 2\nItem: 3\nLast item: 4",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-05-Loop-Scope/Q-25.js",
+    "stdout": "1\n2\n3\n4",
+    "error": "ReferenceError: step is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-06-Function-Scope-Inside-Loops/Q-26.js",
+    "stdout": "10\n20\n30\nFinal: 4",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-06-Function-Scope-Inside-Loops/Q-27.js",
+    "stdout": "60\n70\n80\n90",
+    "error": "ReferenceError: marks is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-06-Function-Scope-Inside-Loops/Q-28.js",
+    "stdout": "5\n6\n7\nFinal value: 8",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-06-Function-Scope-Inside-Loops/Q-29.js",
+    "stdout": "",
+    "error": "ReferenceError: i is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-06-Function-Scope-Inside-Loops/Q-30.js",
+    "stdout": "1\n2\n3\n4\n5\n6",
+    "error": "ReferenceError: i is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-07-Var-Hoisting/Q-31.js",
+    "stdout": "undefined\n90",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-07-Var-Hoisting/Q-32.js",
+    "stdout": "undefined\n20",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-07-Var-Hoisting/Q-33.js",
+    "stdout": "undefined\nundefined\n100\n200",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-07-Var-Hoisting/Q-34.js",
+    "stdout": "undefined\n50",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-07-Var-Hoisting/Q-35.js",
+    "stdout": "undefined\n100",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-08-Function-Hoisting/Q-36.js",
+    "stdout": "Hello from CodingGita",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-08-Function-Hoisting/Q-37.js",
+    "stdout": "Function is hoisted completely",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-08-Function-Hoisting/Q-38.js",
+    "stdout": "",
+    "error": "TypeError: greet is not a function"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-08-Function-Hoisting/Q-39.js",
+    "stdout": "function\nI am hoisted",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-08-Function-Hoisting/Q-40.js",
+    "stdout": "Welcome to CodingGita",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-09-Scope-Chain/Q-41.js",
+    "stdout": "2025\nCSE\nCodingGita",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-09-Scope-Chain/Q-42.js",
+    "stdout": "I am global\nI am outer",
+    "error": "ReferenceError: innerVar is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-09-Scope-Chain/Q-43.js",
+    "stdout": "1 2 3",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-09-Scope-Chain/Q-44.js",
+    "stdout": "first\nglobal",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-09-Scope-Chain/Q-45.js",
+    "stdout": "Inner\nMiddle\nOuter",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-10-Shadowing/Q-46.js",
+    "stdout": "90\n50",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-10-Shadowing/Q-47.js",
+    "stdout": "Local Name\nGlobal Name",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-10-Shadowing/Q-48.js",
+    "stdout": "20\n20",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-10-Shadowing/Q-49.js",
+    "stdout": "Inside: Red\nOutside: Blue",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-10-Shadowing/Q-50.js",
+    "stdout": "95\n70",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-11-Nested-Functions/Q-51.js",
+    "stdout": "Jenil\nKartik Sir",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-11-Nested-Functions/Q-52.js",
+    "stdout": "Parent\nChild\nGrandchild",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-11-Nested-Functions/Q-53.js",
+    "stdout": "",
+    "error": "ReferenceError: inner is not defined"
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-11-Nested-Functions/Q-54.js",
+    "stdout": "Hello students",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-11-Nested-Functions/Q-55.js",
+    "stdout": "Pal\nJavaScript",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-12-Common-Errors/Q-56.js",
+    "stdout": "100",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-12-Common-Errors/Q-57.js",
+    "stdout": "20",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-12-Common-Errors/Q-58.js",
+    "stdout": "undefined",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-12-Common-Errors/Q-59.js",
+    "stdout": "20",
+    "error": null
+  },
+  {
+    "file": "Scope-and-Hoisting/Section-12-Common-Errors/Q-60.js",
+    "stdout": "15",
+    "error": "ReferenceError: total is not defined"
+  }
+]

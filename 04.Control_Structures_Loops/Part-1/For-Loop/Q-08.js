@@ -1,3 +1,4 @@
+// Print the first 20 Fibonacci numbers, starting with 0 and 1.
 let first = 0;
 let second = 1;
 let series = "";
